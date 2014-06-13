@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-06-13T19:38:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2914827639",
+      "properties": {
+        "@id": "node/2914827639",
+        "2014worldcup": "venue",
+        "leisure": "stadium",
+        "name": "Arena Pantanal",
+        "sport": "soccer",
+        "wikipedia": "de:Arena Pantanal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1216527,
+          -15.6040428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2914827657",
+      "properties": {
+        "@id": "node/2914827657",
+        "2014worldcup": "venue",
+        "leisure": "stadium",
+        "name": "Arena da Baixada",
+        "sport": "soccer",
+        "wikipedia": "de:Arena da Baixada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2769327,
+          -25.4482225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2914827679",
+      "properties": {
+        "@id": "node/2914827679",
+        "2014worldcup": "venue",
+        "leisure": "stadium",
+        "name": "Arena da Amazônia",
+        "sport": "soccer",
+        "wikipedia": "de:Arena da Amaz%C3%B4nia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0281592,
+          -3.0832878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2914836015",
+      "properties": {
+        "@id": "node/2914836015",
+        "2014worldcup": "venue",
+        "leisure": "stadium",
+        "name": "Estádio Beira-Rio",
+        "sport": "soccer",
+        "wikipedia": "de:Est%C3%A1dio Beira-Rio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.235942,
+          -30.0655389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2914839228",
+      "properties": {
+        "@id": "node/2914839228",
+        "2014worldcup": "venue",
+        "leisure": "stadium",
+        "name": "Arena Corinthians",
+        "sport": "soccer",
+        "wikipedia": "de:Arena Corinthians"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.474208,
+          -23.5453041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2914843202",
+      "properties": {
+        "@id": "node/2914843202",
+        "2014worldcup": "venue",
+        "leisure": "stadium",
+        "name": "Arena Fonte Nova",
+        "sport": "soccer",
+        "wikipedia": "de:Arena Fonte Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5042256,
+          -12.978786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2914845713",
+      "properties": {
+        "@id": "node/2914845713",
+        "2014worldcup": "venue",
+        "leisure": "stadium",
+        "name": "Estádio do Maracanã",
+        "sport": "soccer",
+        "wikipedia": "de:Est%C3%A1dio do Maracan%C3%A3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2301851,
+          -22.9121313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2914855240",
+      "properties": {
+        "@id": "node/2914855240",
+        "2014worldcup": "venue",
+        "leisure": "stadium",
+        "name": "Arena Pernambuco",
+        "sport": "soccer",
+        "wikipedia": "de:Arena Pernambuco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.0081566,
+          -8.0407149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2914859129",
+      "properties": {
+        "@id": "node/2914859129",
+        "2014worldcup": "venue",
+        "leisure": "stadium",
+        "name": "Arena das Dunas",
+        "sport": "soccer",
+        "wikipedia": "de:Arena das Dunas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2124031,
+          -5.8267421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2914864297",
+      "properties": {
+        "@id": "node/2914864297",
+        "2014worldcup": "venue",
+        "leisure": "stadium",
+        "name": "Estádio Plácido Aderaldo Castelo",
+        "sport": "soccer",
+        "wikipedia": "de:Est%C3%A1dio Pl%C3%A1cido Aderaldo Castelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5224931,
+          -3.8072363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2914867498",
+      "properties": {
+        "@id": "node/2914867498",
+        "2014worldcup": "venue",
+        "leisure": "stadium",
+        "name": "Estádio Governador Magalhães Pinto",
+        "sport": "soccer",
+        "wikipedia": "de:Est%C3%A1dio Governador Magalh%C3%A3es Pinto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9710628,
+          -19.865892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2914868112",
+      "properties": {
+        "@id": "node/2914868112",
+        "2014worldcup": "venue",
+        "leisure": "stadium",
+        "name": "Estádio Nacional de Brasília",
+        "sport": "soccer",
+        "wikipedia": "de:Est%C3%A1dio Nacional de Bras%C3%ADlia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.899207,
+          -15.7835105
+        ]
+      }
+    }
+  ]
+}
